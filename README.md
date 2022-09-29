@@ -1,2 +1,2 @@
 My first readme
-I ma updating this commit
+I am updating this commit
